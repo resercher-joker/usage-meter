@@ -1,0 +1,5 @@
+{
+  "name": "usage-meter",
+  "owner": { "name": "resercher-joker" },
+  "plugins": [{ "name": "usage-meter", "source": "./" }]
+}

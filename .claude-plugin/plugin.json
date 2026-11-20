@@ -1,0 +1,1 @@
+{ "name": "usage-meter", "version": "0.1.0", "description": "在輸入框上方顯示 Claude 用量表：5 小時/7 天額度、上下文、估計花費", "types": "./types/index.d.ts", "license": "MIT", "author": { "name": "resercher-joker" } }
